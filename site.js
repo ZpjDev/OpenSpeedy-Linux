@@ -7,7 +7,7 @@
   var REPO = "game1024/OpenSpeedy";
   // Shipped version, used until (and unless) the Releases API answers. Keep in
   // step with package.json / src-tauri/tauri.conf.json.
-  var FALLBACK_VER = "3.3.11";
+  var FALLBACK_VER = "3.3.13";
   var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   /* ------------------------------------------------------------------------
